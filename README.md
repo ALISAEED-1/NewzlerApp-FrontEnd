@@ -6,10 +6,14 @@ updates. Social login, onboarding flow, trending
 feed, and video integration — cross-platform 
 from one Flutter codebase.
 
+
 ## Screenshots
-<img src="screenshots/img1.jpeg" width="250"> 
-<img src="screenshots/img2.jpeg" width="250">
-<img src="screenshots/img3.jpeg" width="250">
+
+<p align="center">
+  <img src="screenshots/img1.jpeg" width="250">
+  <img src="screenshots/img2.jpeg" width="250">
+  <img src="screenshots/img3.jpeg" width="250">
+</p>
 
 ## Features
 - Live YouTube video integration
