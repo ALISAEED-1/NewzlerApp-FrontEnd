@@ -7,7 +7,9 @@ feed, and video integration — cross-platform
 from one Flutter codebase.
 
 ## Screenshots
-[your screenshots here]
+<img src="screenshots/img1.png" width="250"> 
+<img src="screenshots/img2.png" width="250">
+<img src="screenshots/mg3.png" width="250">
 
 ## Features
 - Live YouTube video integration
