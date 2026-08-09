@@ -9,7 +9,7 @@ from one Flutter codebase.
 ## Screenshots
 <img src="screenshots/img1.jpeg" width="250"> 
 <img src="screenshots/img2.jpeg" width="250">
-<img src="screenshots/mg3.jpeg" width="250">
+<img src="screenshots/img3.jpeg" width="250">
 
 ## Features
 - Live YouTube video integration
